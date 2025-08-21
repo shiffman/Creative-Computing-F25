@@ -19,7 +19,7 @@ _This is a evolving document and is subject to change_
 
 ### 2: [Animation and Interaction](02-animation) (9/10)
 
-### 3: [Repetition](03-repitition) (9/17)
+### 3: [Repetition](03-repetition) (9/17)
 
 ### 4: [Modularity](04-modularity) (9/24)
 
