@@ -21,23 +21,23 @@ _This is a evolving document and is subject to change_
 
 ### 3: [Repetition](03-repetition) (9/17)
 
-### 4: [Modularity](04-modularity) (9/24)
+### 4: [Modularity and Reusability](05-modularity) (9/24)
 
-### 5: [Reusability](05-reusability) (10/1)
+### 5: [Beyond the Canvas](06-beyond) (10/1)
 
-### 6: [Beyond the Canvas](06-beyond) (10/8)
+### 6: [Project 1](07-project) (10/8)
 
-### 7: [Project 1](07-project) (10/15)
+### 7: [Images and Video](08-pixels) (10/15)
 
-### 8: [Images and Video](08-pixels) (10/22)
+### 8: [Machine Learning 1](11-ml-1) (10/22)
 
 ### 9: [Sound and Music](09-sound) (10/29)
 
 ### 10: [Data and APIs](10-data) (11/5)
 
-### 11: [Machine Learning 1](11-ml-1) (11/12)
+### 11: [Machine Learning 2](12-ml-2) (11/12)
 
-### 12: [Machine Learning 1](12-ml-2) (11/19)
+### 12: [Final Project Proposals](final) (11/19)
 
 ### 13: [Final Project Workshop](final) (12/3)
 
