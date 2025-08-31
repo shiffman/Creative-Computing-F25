@@ -1,7 +1,5 @@
 # Creative Computing (Minor) - Fall 2025
 
-_This is a evolving document and is subject to change_
-
 ## Course Info
 
 - Creative Computing (Minor)
@@ -17,31 +15,31 @@ _This is a evolving document and is subject to change_
 
 ### 1: [Introduction](01-introduction) (9/3)
 
-### 2: [Animation and Interaction](02-animation) (9/10)
+### 2: Animation and Interaction (9/10)
 
-### 3: [Repetition](03-repetition) (9/17)
+### 3: Repetition (9/17)
 
-### 4: [Modularity and Reusability](05-modularity) (9/24)
+### 4: Modularity and Reusability (9/24)
 
-### 5: [Beyond the Canvas](06-beyond) (10/1)
+### 5: Beyond the Canvas (10/1)
 
-### 6: [Project 1](07-project) (10/8)
+### 6: Project 1 (10/8)
 
-### 7: [Images and Video](08-pixels) (10/15)
+### 7: Images and Video (10/15)
 
-### 8: [Machine Learning 1](11-ml-1) (10/22)
+### 8: Machine Learning 1 (10/22)
 
-### 9: [Sound and Music](09-sound) (10/29)
+### 9: Sound and Music (10/29)
 
-### 10: [Data and APIs](10-data) (11/5)
+### 10: Data and APIs (11/5)
 
-### 11: [Machine Learning 2](12-ml-2) (11/12)
+### 11: Machine Learning 2 (11/12)
 
-### 12: [Final Project Proposals](final) (11/19)
+### 12: Final Project Proposals (11/19)
 
-### 13: [Final Project Workshop](final) (12/3)
+### 13: Final Project Workshop (12/3)
 
-### 14: [Final Project Presentations](final) (12/10)
+### 14: Final Project Presentations (12/10)
 
 ## Community Guidelines
 
@@ -49,7 +47,21 @@ Please read and review the [ITP/IMA Community Guidelines](https://community.itp.
 
 ## Course Description
 
-In this course students will be asked to think beyond conventional applications of computation to explore creative and expressive possibilities through code. Students will learn the fundamentals of programming as they build interactive projects using p5.js, a JavaScript library designed for creative coding. Through exercises on coding fundamentals (variables, conditionals, iteration, functions and objects), students will gain a deeper appreciation of computation's expressive potential as they learn to author their own software, and not simply use that which has been provided to them. The course will then cover a variety of applications of computation including interactive sound synthesis and audio visualization, image manipulation and processing, data visualization, and machine learning integration with ml5.js. Additional topics include working with APIs to access real-time data, web development fundamentals, and experimental coding approaches and generative development tools. Structured weekly exercises are aimed at building specific skills in each domain, however students are free to pursue their own diverse interests as they combine these techniques in their midterm and final projects.
+In this course students will be asked to think beyond conventional applications of computation to explore creative and expressive possibilities through code. Students will learn the fundamentals of programming as they build interactive projects using p5.js, a JavaScript library designed for creative coding. Through exercises on coding fundamentals (variables, conditionals, iteration, functions and objects), students will gain a deeper appreciation of computation's expressive potential as they learn to build their own creative tools rather than relying on commercial software applications. The course covers interactive sound synthesis and audio visualization, image manipulation and processing, data visualization, machine learning integration with ml5.js, APIs for real-time data, web development fundamentals, and experimental coding approaches with generative development tools. Structured weekly exercises are aimed at building specific skills in each domain, however students are free to pursue their own diverse interests as they combine these techniques in their midterm and final projects.
+
+## Course Objectives
+
+At the completion of this course, the student will:
+
+- Be able to create interactive software sketches using p5.js
+- Demonstrate proficiency with core programming concepts including variables, conditionals, loops, functions, and objects
+- Be able to integrate multimedia elements such as images, video, and sound into interactive applications
+- Be able to utilize external data sources and APIs in their p5.js sketches
+- Develop an intuition for and high-level understanding of core machine learning concepts
+- Be able to apply machine learning to real-time interaction in media art projects using pre-trained models and transfer learning in JavaScript and related tools
+- Become familiar with the current landscape of computational art and interactive media works within historical and contemporary contexts
+- Develop a practice of documenting creative processes and technical decisions through clear written and visual communication
+- Be able to analyze the social and ethical implications of computational systems in creative contexts
 
 ## Perspectives and Learning Modes
 
@@ -57,7 +69,7 @@ Your success in this class is important to me. Everyone learns differently and r
 
 ## Bookable Office Hours
 
-You all enter this classroom with different sets of skills. My office hours are open to you as an extension of the classroom. If you can’t make it to the scheduled times, please let me know and I'll be very happy to accomondate alternate times. There’s no incorrect way to approach office hours, and they are, by default, informal. I hope to work closely with all of you to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours through email.
+You all enter this classroom with different sets of skills. My office hours are open to you as an extension of the classroom. If you can't make it to the scheduled times, please let me know and I'll be very happy to accommodate alternate times. There’s no incorrect way to approach office hours, and they are, by default, informal. I hope to work closely with all of you to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours through email.
 
 ## Equipment
 
@@ -77,27 +89,52 @@ The course will be once per week for three hours for a total of fourteen weeks.
 
 ## Grading
 
-Grades for the course will follow the standard A through F letter grading system and will be determined by the following breakdown:
+This course uses **specifications-based grading** to provide clear expectations and transparent assessment. Your final grade is determined by consistently meeting assignment specifications.
+
+### Grade Distribution
 
 - 25% Participation
-- 50% Assignments (including reading responses and other written work)
+- 50% Assignments (including reading responses and documentation)
 - 25% Final project
 
-## Assignments
+### Assignment Specifications
 
-There will be weekly assignments that are relevant to the class material. The primary elements of the assignments is documentation (written description, photos, screenshots, screen recording, code, and video all qualify based on the assignment) of your process. Each assignment is due by class time one week after they are assigned unless stated otherwise.
+Each weekly assignment has three required components:
 
-It is expected that you will spend 3 to 6 hours a week on the class outside of class itself. This will include reviewing material, reading, watching video, completing assignments and so on. Please budget your time accordingly.
+1. **Create** a p5.js sketch that demonstrates the week's concepts
+2. **Document** your process (written description, screenshots, photos, screen recording, or video)
+3. **Respond** to assigned readings (200-500 words unless otherwise specified)
 
-Each assignment will be marked as complete (full credit), partially complete (half credit), or incomplete (no credit). To be complete, an assignment should meet the criteria specified in the syllabus including documentation. If significant portions are not attempted it may be marked partially complete. If an attempt isn’t made to meet the criteria specified it will be marked incomplete.
+**Important**: Your code does not need to work perfectly to receive full credit! You are evaluated on process and documentation. Even if your sketch does not run properly, as long as you document what you attempted, what challenges you encountered, and what you learned, you will receive full credit!
 
-Assignments may include responses to reading and other written assignments. Responses to readings are generally to be 200 to 500 words in length unless otherwise specified. Grading will follow the same guidelines as above; on time and meeting the criteria specified will be marked as complete. Partially completed work will be given half credit. Work that is not turned in, or fails to meet the criteria specified will be given no credit.
+### Points Specification
 
-## Participation
+Assignments are evaluated on a 0-2 scale (with an optional 3 for exceptional work):
 
-ITP/IMA is committed to facilitating the fullest possible participation of all students. There are many forms of participation. Please communicate what kinds of engagement are best for you so it can be taken into account.
+- **2 (Complete)**: All three specifications satisfied and submitted on time
+- **1 (Partial)**: Some specifications attempted but not all requirements met
+- **0 (Incomplete)**: Assignment not submitted
+- **3 (Exceptional)**: Occasionally awarded for work that goes above and beyond class expectations
 
-Examples of modes of participation can look like: asking questions, going to office hours, sending and reading emails, class group discussion, arriving on time, going to class, taking notes, listening to peers, submitting responses to a form (anonymous or not), following instructions, active listening, and more.
+### Participation
+
+Participation accounts for 25% of your grade and is designed to be accessible to all students. ITP/IMA is committed to facilitating the fullest possible participation of all students. There are many forms of participation, and you will receive full credit for participation by simply showing up and engaging with the class in whatever way works best for you.
+
+Examples of participation include: asking questions, going to office hours, sending and reading emails, engaging in class discussion, arriving on time, attending class, taking notes, listening to peers, submitting responses to forms (anonymous or not), following instructions, active listening, and more. Please feel free to communicate what kinds of engagement work best for you so it can be taken into account.
+
+### Final Grade Calculation
+
+Your final grade is based on your overall pattern of work:
+
+- **A**: Consistently earning 2s + participation
+- **B**: Mostly 2s with occasional 1s on assignments + participation
+- **C**: Mix of 1s and 2s on assignments + participation
+- **D**: Mostly 1s, lack of participation
+- **F**: Consistently earning 0s or 1s on assignments, lack of participation
+
+### Time Expectations
+
+Plan to spend 3-6 hours per week outside of class on assignments, readings, and reviewing material. Assignments are due by class time one week after they are assigned unless otherwise specified.
 
 ## Extensions
 
