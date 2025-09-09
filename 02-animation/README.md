@@ -19,6 +19,7 @@
 - 🎥 [Incrementation Operations](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/3-incrementation)
 - 🎥 [random()](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/4-random)
 - 🎥 [map()](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/2-variables/5-map)
+- 🎥 [Simple Harmonic Motion](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/5-harmonic-motion) -- this video stretches into some concepts beyond where we are in the class, but it may help you understand more about how `sin()` works and how to apply it in your code.
 - 📖 Chapters 4 (stop at example 4.5), 8 (stop at example 8.9) of [Getting Started with p5.js book](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 
 ## Oh, also transformations
@@ -75,4 +76,4 @@ Along with screenshots and notes on your creative process (what you tried, chall
 - In what ways did variables, conditionals, or animation feel like tools for developing your **voice** in code?
 - Do you see a connection between learning to code and learning to write, as Resnick suggests?
 
-Include these reflections in the same post as your sketch documentation.
+This week, you can include these reflections in the same post as your sketch documentation.
