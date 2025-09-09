@@ -10,6 +10,7 @@
 - variable scope
 - `console.log`
 - 🔢 Variable types: numbers, strings, booleans
+- `random()`, `map()`, `sin()`, `cos()`
 
 ### References
 
@@ -54,12 +55,24 @@
 
 ## Assignment
 
+### Reading
+
+- [Computational Fluency](https://mres.medium.com/computational-fluency-776143c8d725) by Mitch Resnick
+
 ### Animated Sketch
 
-Create an animated, interactive sketch that builds on top of the in-class demonstrations. Here are three choices (you should only pick one!) or you can invent your own.
+This week you’ll build on animation, variables, and conditionals to make something interactive. Choose one of the options below (or invent your own):
 
-- Painting Sketch: create an interactive drawing sketch that responds to user input. How can you use variables to store drawing properties (brush size, color, etc) and conditionals for different modes and effects?
-- Bouncing Animation: Building on top of the bouncing ball example, how can you add variables to control speed, size, or other properties of the ball? How can you leverage conditionals or mathematical operations for the ball to interact with the mouse?
-- Clock: Invent your own visual representation of time!
+- **Painting Sketch**: Create an interactive drawing sketch that responds to user input. How can you use variables to store drawing properties (brush size, color, etc.) and conditionals for different modes and effects?
+- **Bouncing Animation**: Building on top of the bouncing ball example, how can you add variables to control speed, size, or other properties of the ball? How can you use conditionals or mathematical operations for the ball to interact with the mouse?
+- **Clock**: Invent your own visual representation of time!
 
-**Documentation**: Document your creative process! Include screenshots of your sketch, describe what you attempted, any challenges you encountered, and what you learned. Include any questions you have in your post!
+### Documentation
+
+Along with screenshots and notes on your creative process (what you tried, challenges, what you learned), reflect on the reading as part of your post. Use Resnick’s idea of _computational fluency_ to frame your work:
+
+- How did your sketch let you **express yourself** (not just solve a puzzle)?
+- In what ways did variables, conditionals, or animation feel like tools for developing your **voice** in code?
+- Do you see a connection between learning to code and learning to write, as Resnick suggests?
+
+Include these reflections in the same post as your sketch documentation.
