@@ -47,6 +47,11 @@
 - 🎥 [Boolean Variables](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/4-boolean)
 - 📖 Chapter 5 of [Getting Started with p5.js book](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 
+## Code Examples
+
+- [Variation Collection](https://editor.p5js.org/ima-cc/collections/aKxqpZOkV)
+- [Conditionals Collection](https://editor.p5js.org/ima-cc/collections/O-fRRdULj)
+
 ## Assignment
 
 ### Animated Sketch
