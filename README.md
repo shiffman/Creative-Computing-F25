@@ -15,7 +15,7 @@
 
 ### 1: [Introduction](01-introduction) (9/3)
 
-### 2: Animation and Interaction (9/10)
+### 2: [Animation and Interaction](02-animation) (9/10)
 
 ### 3: Repetition (9/17)
 
