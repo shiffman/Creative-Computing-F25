@@ -62,8 +62,9 @@
 
 ### Animated Sketch
 
-This week you’ll build on animation, variables, and conditionals to make something interactive. Choose one of the options below (or invent your own):
+This week you'll build on animation, variables, and conditionals to make something interactive. Choose one of the options below (or invent your own):
 
+- **Animate Your Week 1 Sketch**: Take your sketch from last week and bring a small element to life! Since your drawing is likely quite complex with many shapes and lines of code, consider simplifying by removing most of the code and focusing on animating just one element. Making the eyes blink, adding a subtle head tilt, animating hair swaying are some ideas. Do they move with the mouse or on their own?
 - **Painting Sketch**: Create an interactive drawing sketch that responds to user input. How can you use variables to store drawing properties (brush size, color, etc.) and conditionals for different modes and effects?
 - **Bouncing Animation**: Building on top of the bouncing ball example, how can you add variables to control speed, size, or other properties of the ball? How can you use conditionals or mathematical operations for the ball to interact with the mouse?
 - **Clock**: Invent your own visual representation of time!
