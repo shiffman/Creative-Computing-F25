@@ -29,7 +29,7 @@
 
 - **10PRINT:**
   - [10PRINT book and resources](https://10print.org/)
-  - [Original 10PRINT](https://www.youtube.com/watch?v=m9joBLOZVEo)
+  - [Original Commodore 64 10PRINT](https://www.youtube.com/watch?v=m9joBLOZVEo)
   - [Casey Reas 10PRINT](https://reas.com/yesno_s2/)
   - [10PRINT Coding Challenge Video](https://thecodingtrain.com/challenges/76-10Print)
 - [Sol LeWitt](https://massmoca.org/sol-lewitt/)
