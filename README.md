@@ -17,7 +17,7 @@
 
 ### 2: [Animation and Interaction](02-animation) (9/10)
 
-### 3: Repetition (9/17)
+### 3: [Repetition](03-repetition) (9/17)
 
 ### 4: Modularity and Reusability (9/24)
 
