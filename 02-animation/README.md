@@ -2,14 +2,14 @@
 
 ## Sketch Flow
 
-- ⏰ The `setup()` and `draw()` functions
-- 🖱️ Event functions: `mousePressed()`, `keyPressed()`, etc.
-- 🔄 Animation loops and frame rates
-- 📦 Built-in variables: `mouseX`, `mouseY`, `width`, `height`
-- ✏️ Creating your own variables with `let`
+- The `setup()` and `draw()` functions
+- Event functions: `mousePressed()`, `keyPressed()`, etc.
+- Animation loops and frame rates
+- Built-in variables: `mouseX`, `mouseY`, `width`, `height`
+- Creating your own variables with `let`
 - variable scope
 - `console.log`
-- 🔢 Variable types: numbers, strings, booleans
+- Variable types: numbers, strings, booleans
 - `random()`, `map()`, `sin()`, `cos()`
 
 ### References
@@ -24,9 +24,9 @@
 
 ## Oh, also transformations
 
-- 📐 Moving the coordinate system
-- 🔄 Rotating and scaling shapes
-- 📚 Saving and restoring transformations
+- Moving the coordinate system
+- Rotating and scaling shapes
+- Saving and restoring transformations
 
 ### References
 
@@ -35,11 +35,11 @@
 
 ## Conditional Logic
 
-- ❓ The `if` statement
-- ⚖️ Relational operators: `>`, `<`, `<=`, `>=`, `==`, `===`, `!==`
-- 🔀 `else` and `else if` statements
-- 🔗 Logical operators: `&&` (AND), `||` (OR)
-- ✅ Boolean variables: `true` and `false`
+- The `if` statement
+- Relational operators: `>`, `<`, `<=`, `>=`, `==`, `===`, `!==`
+- `else` and `else if` statements
+- Logical operators: `&&` (AND), `||` (OR)
+- Boolean variables: `true` and `false`
 
 ### References
 
@@ -51,10 +51,9 @@
 
 ## Code Examples
 
-- [Variation Collection](https://editor.p5js.org/ima-cc/collections/aKxqpZOkV)
-- [Conditionals Collection](https://editor.p5js.org/ima-cc/collections/O-fRRdULj)
-  - 🎥 [Clock Coding Challenge](https://thecodingtrain.com/challenges/74-clock)
-  - 💻 [Clock Code Example](https://editor.p5js.org/codingtrain/sketches/2lvHFWPbW)
+- 💻 [Variation Collection](https://editor.p5js.org/ima-cc/collections/aKxqpZOkV)
+- 💻 [Conditionals Collection](https://editor.p5js.org/ima-cc/collections/O-fRRdULj)
+- 🎥 [Clock Coding Challenge](https://thecodingtrain.com/challenges/74-clock) and 💻 [Clock Code Example](https://editor.p5js.org/codingtrain/sketches/2lvHFWPbW)
 
 ## Assignment
 

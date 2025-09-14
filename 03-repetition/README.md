@@ -2,10 +2,10 @@
 
 ## Loops
 
-- 🔄 The `for` loop and `while` loop structures
-- 🎯 Using loops to repeat drawing operations
-- 🌀 Nested loops for creating grids and patterns
-- 🎲 Adding variation within repetition
+- The `for` loop and `while` loop structures
+- Using loops to repeat drawing operations
+- Nested loops for creating grids and patterns
+- Adding variation within repetition
 
 ### References
 
@@ -15,9 +15,9 @@
 
 ## Arrays
 
-- 📋 Storing multiple values in a single variable
-- 🔗 Combining arrays with loops
-- 📊 Managing collections of data for animation and interaction
+- Storing multiple values in a single variable
+- Combining arrays with loops
+- Managing collections of data for animation and interaction
 
 ### References
 
