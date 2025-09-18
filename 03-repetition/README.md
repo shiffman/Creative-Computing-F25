@@ -33,9 +33,10 @@
   - [Original Commodore 64 10PRINT](https://www.youtube.com/watch?v=m9joBLOZVEo)
   - [Casey Reas 10PRINT](https://reas.com/yesno_s2/)
   - [10PRINT Coding Challenge Video](https://thecodingtrain.com/challenges/76-10Print)
-- [Vera Molnar](https://www.rightclicksave.com/article/an-interview-with-vera-molnar)
+- [Vera Molner](https://www.artsy.net/article/artsy-editorial-vera-molnar-mother-computer-art-pioneered-future-abstraction)
 - [Sol LeWitt](https://massmoca.org/sol-lewitt/)
 - [What is Generative Art?](https://avantarte.com/insights/guides/what-is-generative-art)
+- [Why We Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art) by Jason Bailey
 - Introduction to [Generative Art](https://manning-content.s3.amazonaws.com/download/c/85bbb4d-ee4f-46d2-9bc1-03b6f23b231f/GenArt-Sample-Intro.pdf) by Matt Pearson
 - [Gerhard Richter Color Charts](https://www.gerhard-richter.com/en/art/paintings/abstracts/colour-charts-12)
 - [Taroko Gorge by Nick Montfort](http://nickm.com/taroko_gorge/)
@@ -56,7 +57,7 @@
 
 ### Reading
 
-- [Why We Love Generative Art](https://www.artnome.com/news/2018/8/8/why-love-generative-art) by Jason Bailey
+- [An Interview with Vera Molnar](https://www.rightclicksave.com/article/an-interview-with-vera-molnar)
 
 ### Generative Sketch
 
@@ -68,9 +69,9 @@ Think about how you can design a system that creates unexpected results within b
 
 ### Documentation
 
-Along with screenshots and notes on your creative process, reflect on Bailey's article about generative art:
+Along with screenshots and notes on your creative process, reflect on the Vera Molnar interview:
 
-- How did designing a system (rather than directly drawing each element) change your approach to making a p5.js sketch?
-- Bailey writes about "controlled randomness." How did you balance control and chance in your sketch?
-- What surprised you about what your code produced? Did the system create anything you didn't expect?
-- Bailey suggests generative art continues traditions of "geometry, abstraction, and chance" from 20th-century art. Do you see connections between your computational work and other forms of art you know?
+- Molnar said "I may not find, but I seek" - she experimented to see what would happen. How did experimenting with your code lead to surprises?
+- What "rules" did you give your code? (Like: draw circles in a grid, make some red, some blue, etc.) How did following these simple rules create something you didn't expect?
+- Molnar used randomness to help make decisions in her art. Where did you use `random()` in your sketch and why?
+- Did you like everything your code made, or did you pick your favorites? What made some results better than others?
