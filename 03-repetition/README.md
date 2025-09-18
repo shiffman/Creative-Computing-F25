@@ -71,7 +71,7 @@ Think about how you can design a system that creates unexpected results within b
 
 Along with screenshots and notes on your creative process, reflect on the Vera Molnar interview:
 
-- Molnar said "I may not find, but I seek" - she experimented to see what would happen. How did experimenting with your code lead to surprises?
-- What "rules" did you give your code? (Like: draw circles in a grid, make some red, some blue, etc.) How did following these simple rules create something you didn't expect?
-- Molnar used randomness to help make decisions in her art. Where did you use `random()` in your sketch and why?
-- Did you like everything your code made, or did you pick your favorites? What made some results better than others?
+- Molnar said "I may not find, but I seek" employing a process of experimentation rather than knowing the outcome in advance. How did experimenting with your code lead to surprises?
+- Before computers, Molnar developed her "machine imaginaire": systematic rules and processes for creating art by hand. What "rules" did you give your code? How did following these simple rules create something you didn't expect?
+- Molnar used randomness to help make decisions in her art. How did you balance control and randomness in your work?
+- In the interview, Molnar debates whether artists should curate/select from algorithmic output or let the algorithm run free. Did you like everything your code made, or did you pick your favorites? What made some results better than others?
