@@ -23,6 +23,7 @@
 
 - 🎥 [What is an Array?](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/1-arrays)
 - 🎥 [Arrays and Loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/2-arrays-loops)
+- 📖 [How Does Generative Art Work?](https://aestheticdata.eu/tag/variables-and-loops/)
 - 📖 Chapter 11 (examples 11.1-11.8) of [Getting Started with p5.js book](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 
 ## Inspiration
@@ -32,10 +33,12 @@
   - [Original Commodore 64 10PRINT](https://www.youtube.com/watch?v=m9joBLOZVEo)
   - [Casey Reas 10PRINT](https://reas.com/yesno_s2/)
   - [10PRINT Coding Challenge Video](https://thecodingtrain.com/challenges/76-10Print)
+- [Vera Molnar](https://www.rightclicksave.com/article/an-interview-with-vera-molnar)
 - [Sol LeWitt](https://massmoca.org/sol-lewitt/)
+- [What is Generative Art?](https://avantarte.com/insights/guides/what-is-generative-art)
+- Introduction to [Generative Art](https://manning-content.s3.amazonaws.com/download/c/85bbb4d-ee4f-46d2-9bc1-03b6f23b231f/GenArt-Sample-Intro.pdf) by Matt Pearson
 - [Gerhard Richter Color Charts](https://www.gerhard-richter.com/en/art/paintings/abstracts/colour-charts-12)
 - [Taroko Gorge by Nick Montfort](http://nickm.com/taroko_gorge/)
-- [Vera Molnar](https://web.archive.org/web/20190829030707/http://www.seniorandshopmaker.com/exhibitions/2015/3/18/vera-molnar-regarding-the-infinite)
 - [Metaesquema by Hélio Oiticica](https://github.com/itpresidents/icm-help-sessions-2020/blob/master/session-04/session-04-example.md)
 - [Test Pattern by Ryoji Ikeda](https://www.ryojiikeda.com/project/testpattern/)
 - [Daily Art by Saskia Freeke](https://sasj.nl/portfolio/daily/)
