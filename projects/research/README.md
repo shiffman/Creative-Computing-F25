@@ -14,8 +14,9 @@ Your research will result in three components: written documentation, a short pr
 
 ### Starting Points for Research
 
-- [ITP's Computationam Media Inspiration Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Inspiration)
+- [ITP's Computational Media Inspiration Wiki](https://github.com/ITPNYU/ICM-2025-Code/wiki/Inspiration)
 - [Generative Art References](https://github.com/shiffman/Creative-Computing-F25/tree/main/03-repetition#inspiration)
+- [Creative Coding Intro Slides](https://docs.google.com/presentation/d/1FPCJfoabgrIrPKeURbrBIw1R4c_TF5L079oI75rwINI/) (_these are still a work in progress, but you might find things in there you'd like to explore_)
 
 ## Part 1: Written Research (300-500 words)
 
