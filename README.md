@@ -19,11 +19,11 @@
 
 ### 3: [Repetition](03-repetition) (9/17)
 
-### 4: Modularity and Reusability (9/24)
+### 4: [Modularity and Reusability](04-organize) (9/24)
 
-### 5: Beyond the Canvas (10/1)
+### 5: Beyond the Canvas + Research Proposals (10/1) - **_CLASS MEETS AT 370 JAY!_**
 
-### 6: Project 1 (10/8)
+### 6: [Research Project Presentations](projects/research/) (10/8)
 
 ### 7: Images and Video (10/15)
 
