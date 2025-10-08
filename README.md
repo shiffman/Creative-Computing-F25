@@ -27,7 +27,7 @@
 
 ### 7: Images and Video (10/15)
 
-### 8: Machine Learning 1 (10/22)
+### 8: Machine Learning (10/22)
 
 ### 9: Sound and Music (10/29)
 
