@@ -33,7 +33,7 @@
 
 ### 10: Data and APIs (11/5)
 
-### 11: Machine Learning 2 (11/12)
+### 11: Invidivual Meetings (11/12)
 
 ### 12: Final Project Proposals (11/19)
 
