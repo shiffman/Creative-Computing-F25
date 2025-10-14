@@ -32,16 +32,11 @@
 
 ### Pixel Manipulation Sketch
 
-For this assignment, create an interactive sketch that processes image or video data. Like Rozin, think about how computation can reveal something new about how we see ourselves or the world.
-
-Choose one of the options below (or invent your own):
-
-- **Video Mirror**: Use `createCapture()` to access your webcam and create an interactive mirror effect. How can you transform the live video feed in creative ways? Consider manipulating brightness, color, position, or creating your own "mechanical mirror" effect using shapes or text.
-- **Image Filter**: Create your own image filter or effect by manipulating the pixel array. How can you process each pixel based on its neighbors, position, brightness, or color?
+For this assignment, create an interactive sketch that processes image or video data. You can use any of the above examples as a launching off point. If you'd like a more specific prompt, my suggestion is to create an interactive "mirror" with `createCapture()`. How can you transform the live video in creative ways? Consider manipulating brightness, color, position, or creating your own "mechanical mirror" by drawing shapes or text that represent pixels.
 
 ### Documentation
 
 Along with screenshots and notes on your creative process (what you tried, challenges, what you learned), reflect on Danny Rozin's interview. Here are two prompts to consider.
 
-- Rozin talks about seeing "patterns of light and dark" and finding "pixels in almost everything." After working with pixel arrays, do you see the world differently? What everyday objects or patterns could be "pixels"?
-- In his Software Mirrors, Rozin explores questions like: "What amount of information is required to make an image? How much can you subtract from an image until it loses its meaning?" How did your sketch explore the boundaries between abstraction and recognition?
+- Rozin talks about seeing "patterns of light and dark" and finding "pixels in almost everything." After working with pixel arrays, do you see the world differently?
+- In his software mirrors, Rozin explores questions like: "What amount of information is required to make an image? How much can you subtract from an image until it loses its meaning?" How did your sketch explore the boundaries between abstraction and recognition?
