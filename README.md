@@ -25,7 +25,7 @@
 
 ### 6: [Research Project Presentations](projects/research/) (10/8)
 
-### 7: Images and Video (10/15)
+### 7: [Images and Video](05-pixels) (10/15)
 
 ### 8: Machine Learning (10/22)
 
