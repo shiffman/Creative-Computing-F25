@@ -11,12 +11,14 @@
 
 ### Tutorials
 
+- 🎥 [Loading Data with p5.js 2.0](https://thecodingtrain.com/tracks/p5js-2.0/p5js-2.0/loading-data)
 - 🎥 [The Pixel Array](https://thecodingtrain.com/tracks/pixels/more-p5/pixel-array)
 - 🎥 [Brightness Mirror](https://thecodingtrain.com/tracks/pixels/pixels/brightness-mirror)
 - 🎥 [Painting with Pixels](https://thecodingtrain.com/tracks/pixels/pixels/painting-with-pixels)
 - 🎥 [Live Video and createCapture()](https://thecodingtrain.com/tracks/pixels/pixels/createCapture)
 - 🎥 [Checkbox Mirror](https://thecodingtrain.com/tracks/pixels/pixels/checkbox-mirror)
 - 🎥 [Video Photobooth / Muybridge Style Animation](https://thecodingtrain.com/tracks/pixels/pixels/video-photobooth)
+- 🎥 [Slitscan](https://thecodingtrain.com/challenges/164-slitscan)
 - 📖 Chapter 7 (through Ex. 7-9) of [Getting Started with p5.js book](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
 
 ## Code Examples
