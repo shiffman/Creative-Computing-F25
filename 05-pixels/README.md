@@ -9,22 +9,19 @@
 - Accessing webcam with `createCapture()`
 - Working with live video as a data source
 
-### Tutorials
+### Videos and Code Examples
 
 - 🎥 [Loading Data with p5.js 2.0](https://thecodingtrain.com/tracks/p5js-2.0/p5js-2.0/loading-data)
 - 🎥 [Nested For Loop](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/2-nested)
-- 🎥 [The Pixel Array](https://thecodingtrain.com/tracks/pixels/more-p5/pixel-array)
-- 🎥 [Brightness Mirror](https://thecodingtrain.com/tracks/pixels/pixels/brightness-mirror)
-- 🎥 [Painting with Pixels](https://thecodingtrain.com/tracks/pixels/pixels/painting-with-pixels)
+- 🎥 [The Pixel Array](https://thecodingtrain.com/tracks/pixels/more-p5/pixel-array), [updated 2.0 pixel array code](https://editor.p5js.org/ima-cc/sketches/M6bKphnca)
+- 🎥 [Brightness Mirror](https://thecodingtrain.com/tracks/pixels/pixels/brightness-mirror), [updated 2.0 brightness mirror code](https://editor.p5js.org/ima-cc/sketches/dJjZ9t97s)
+- 🎥 [Painting with Pixels](https://thecodingtrain.com/tracks/pixels/pixels/painting-with-pixels), [updated 2.0 painting pixels code](https://editor.p5js.org/ima-cc/sketches/UpkToWoHG)
 - 🎥 [Live Video and createCapture()](https://thecodingtrain.com/tracks/pixels/pixels/createCapture)
-- 🎥 [Checkbox Mirror](https://thecodingtrain.com/tracks/pixels/pixels/checkbox-mirror)
-- 🎥 [Video Photobooth / Muybridge Style Animation](https://thecodingtrain.com/tracks/pixels/pixels/video-photobooth)
-- 🎥 [Slitscan](https://thecodingtrain.com/challenges/164-slitscan)
+- 🎥 [Checkbox Mirror](https://thecodingtrain.com/tracks/pixels/pixels/checkbox-mirror), [updated checkbox mirror 2.0 code](https://editor.p5js.org/ima-cc/sketches/tmF70eLxw)
+- 🎥 [Video Photobooth / Muybridge Style Animation](https://thecodingtrain.com/tracks/pixels/pixels/video-photobooth), [Updated Video Grid 2.0 code](https://editor.p5js.org/ima-cc/sketches/WENUSVVU5)
+- 🎥 [Slitscan](https://thecodingtrain.com/challenges/164-slitscan), [updated 2.0 slitscan code](https://editor.p5js.org/ima-cc/sketches/VxYT8HMzO), [Golan Levin Slitscan Catalog](https://www.flong.com/archive/texts/lists/slit_scan/index.html)
 - 📖 Chapter 7 (through Ex. 7-9) of [Getting Started with p5.js book](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
-
-## Code Examples
-
-- 💻 [Images and Pixels](https://editor.p5js.org/jht1493/collections/XKr_AXpaT) organized collection of all the above examples thanks to John Henry Thompson
+- 💻 [Images and Pixels Collection](https://editor.p5js.org/jht1493/collections/XKr_AXpaT) organized collection of all the above examples thanks to John Henry Thompson
 
 ## Assignment
 
