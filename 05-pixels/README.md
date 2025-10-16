@@ -12,6 +12,7 @@
 ### Tutorials
 
 - 🎥 [Loading Data with p5.js 2.0](https://thecodingtrain.com/tracks/p5js-2.0/p5js-2.0/loading-data)
+- 🎥 [Nested For Loop](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/2-nested)
 - 🎥 [The Pixel Array](https://thecodingtrain.com/tracks/pixels/more-p5/pixel-array)
 - 🎥 [Brightness Mirror](https://thecodingtrain.com/tracks/pixels/pixels/brightness-mirror)
 - 🎥 [Painting with Pixels](https://thecodingtrain.com/tracks/pixels/pixels/painting-with-pixels)
