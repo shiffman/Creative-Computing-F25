@@ -27,7 +27,7 @@
 
 ### 7: [Images and Video](05-pixels) (10/15)
 
-### 8: Machine Learning (10/22)
+### 8: [Machine Learning](06-ml) (10/22)
 
 ### 9: Sound and Music (10/29)
 
