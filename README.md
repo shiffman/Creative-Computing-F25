@@ -27,15 +27,15 @@
 
 ### 7: [Images and Video](05-pixels) (10/15)
 
-### 8: [Machine Learning](06-ml) (10/22)
+### 8: [Machine Learning](06-ml) (10/29)
 
-### 9: Sound and Music (10/29)
+### 9: Sound and Music (11/5)
 
-### 10: Data and APIs (11/5)
+### 10: Data and APIs (11/12)
 
-### 11: Invidivual Meetings (11/12)
+### 11: Final Project Proposals (11/19)
 
-### 12: Final Project Proposals (11/19)
+### 12: Invidivual Meetings (TBD)
 
 ### 13: Final Project Workshop (12/3)
 
