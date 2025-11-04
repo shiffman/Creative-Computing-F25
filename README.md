@@ -29,7 +29,7 @@
 
 ### 8: [Machine Learning](06-ml) (10/29)
 
-### 9: Sound and Music (11/5)
+### 9: [Sound](07-sound) (11/5)
 
 ### 10: Data and APIs (11/12)
 
