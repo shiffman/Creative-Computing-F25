@@ -31,15 +31,15 @@
 
 ### 9: [Sound](07-sound) (11/5)
 
-### 10: Data and APIs (11/12)
+### 10: [Data and APIs](08-data) (11/12)
 
-### 11: Final Project Proposals (11/19)
+### 11: [Final Project Proposals](projects/final) (11/19)
 
 ### 12: Invidivual Meetings (TBD)
 
-### 13: Final Project Workshop (12/3)
+### 13: [Final Project Workshop](projects/final) (12/3)
 
-### 14: Final Project Presentations (12/10)
+### 14: [Final Project Presentations](projects/final) (12/10)
 
 ## Community Guidelines
 
