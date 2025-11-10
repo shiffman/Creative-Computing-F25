@@ -2,16 +2,16 @@
 
 Your final project is an open-ended creative proposal that builds off or is inspired by the concepts in this class. The focus is on developing and documenting your idea. You'll propose a computational/creative work and create a sketch that represents a first step or proof of concept.
 
-The final project includes:
-
-- Presenting an initial proposal to the class in Week 12.
-- Play testing a prototype sketch in Week 13.
-- Creating documentation of the final proposal and accompanying prototype in the form of a google slides deck (or format of your choice) to be presented in up to 10 minutes in the final class.
-
 - **Focus on concept** - There is no requirement to use a particular aspect of programming. Focus on an idea that excites you and choose the best programming concepts and tools to help you realize it.
 - **Build or Create Anew** - You can take something you’ve already made and develop it further or create something entirely new.
 - **Scope** - Scope - Keep things simple and small in scope. If your project idea is a big one, document the larger vision and create a sketch that explores just one aspect, interaction, or element as a proof of concept. Think of the code component like the research project: an exploratory beginning, not a finished piece.
 - **Audience** - Also consider making a final project for a small audience such as our class or for a single person like a family member, friend, or yourself as a way to focus your idea and design process.
+
+The final project includes:
+
+- Presenting an initial proposal to the class.
+- Play testing a prototype sketch.
+- Creating documentation of the final proposal and accompanying prototype in the form of a google slides deck (or format of your choice) to be presented in up to 10 minutes in the final class.
 
 ## Final Project Proposal: Due 11/19
 
