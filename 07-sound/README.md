@@ -38,6 +38,15 @@
 - [Oscillator Basics](https://thecodingtrain.com/tracks/sound/sound/6-sound-synthesis)
 - [ASDR Envelope](https://thecodingtrain.com/tracks/sound/sound/7-adsr-envelope)
 
+## Code Examples
+- [Play and Pause Sound File](https://editor.p5js.org/ima-cc/sketches/-KcaP4n5O)
+- [Time and Duration Sound File](https://editor.p5js.org/ima-cc/sketches/_KOQYufeL)
+- [Adjust Sound Rate / Amplitude with Slider](https://editor.p5js.org/ima-cc/sketches/GBNdfiX05)
+- [Visualize Amplitude Sound File](https://editor.p5js.org/ima-cc/sketches/bhEFkGn6G)
+- [Mic input / threshold](https://editor.p5js.org/ima-cc/sketches/sFX8vbUjZ)
+- [Visualizze Spectrum Array](https://editor.p5js.org/ima-cc/sketches/b0Dex6J56)
+- [Sound Synthesis - Oscillator](https://editor.p5js.org/ima-cc/sketches/uCRzk5zQa)
+
 ## Assignment
 
 Take a p5.js sketch you made for a previous assignment and incorporate sound using one or more of the following suggestions:
