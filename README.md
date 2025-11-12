@@ -35,7 +35,7 @@
 
 ### 11: [Final Project Proposals](projects/final) (11/19)
 
-### 12: Invidivual Meetings (TBD)
+### 12: Individual Meetings (TBD)
 
 ### 13: [Final Project Workshop](projects/final) (12/3)
 
