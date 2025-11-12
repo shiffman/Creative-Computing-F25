@@ -3,7 +3,7 @@
 ### Text and Word Counting
 
 - 🎥 [Word Counting](https://thecodingtrain.com/challenges/40-word-counter)
-- 💻 [word counting sketch updated for p5 2.0](https://editor.p5js.org/a2zitp/sketches/vk4pxyPJS)
+- 💻 [word counting sketch updated for p5 2.0](https://editor.p5js.org/ima-cc/sketches/MbF5WwNRc)
 - 🎥 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
 
 ### Creative Inspiration
