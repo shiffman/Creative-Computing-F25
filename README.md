@@ -37,7 +37,7 @@
 
 ### 12: Individual Meetings (TBD)
 
-### 13: [Final Project Workshop](projects/final) (12/3)
+### 13: [Final Project Workshop](projects/final) (12/3) - **_CLASS MEETS AT 370 JAY!_**
 
 ### 14: [Final Project Presentations](projects/final) (12/10)
 
